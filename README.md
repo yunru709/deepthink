@@ -54,6 +54,8 @@ LLM 的输出和输入之间存在严格的因果链 — 它本质上是一个�
 ```powershell
 cd 本文件夹
 npm install -g .
+
+更新 deepthink --update
 ```
 
 安装完成后 `deepthink` 命令全局可用，原文件夹可以删除。
